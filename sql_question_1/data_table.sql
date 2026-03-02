@@ -11,4 +11,6 @@ INSERT INTO candidates (candidate_id, skill) VALUES
 (234, 'PowerBI'),
 (234, 'SQL Server'),
 (345, 'Python'),
-(345, 'Tableau');   
+(345, 'Tableau'); 
+
+
